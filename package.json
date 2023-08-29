@@ -1,0 +1,19 @@
+{
+  "name": "cypressapi",
+  "version": "1.0.0",
+  "description": "REST API TESTING WITH CYPRESS",
+  "main": "index.js",
+  "scripts": {
+    "test": "REST, CYPRESS, API"
+  },
+  "keywords": [
+    "REST",
+    "CYPRESS",
+    "API"
+  ],
+  "author": "relicq",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
